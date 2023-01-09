@@ -1,0 +1,222 @@
+[
+  {
+    "id": "62304c2688181b2f983a009f",
+    "name": "브랜드제품 문의",
+    "items": [
+      {
+        "name": "라네즈 브랜드 관련 문의",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 1,
+        "id": "62304c496443043f4ccc6a8f"
+      },
+      {
+        "name": "라네즈 제품 관련 문의",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 2,
+        "id": "62304c6e8f7aa163e7fa65b7"
+      }
+    ],
+    "created": 1647332390406,
+    "updated": 1647411751931,
+    "visibility": true,
+    "sequence": 1
+  },
+  {
+    "id": "620dab14e0b4c00433fed87a",
+    "name": "커스텀 시나리오",
+    "items": [
+      {
+        "name": "라대리의 해장 제안",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 1,
+        "id": "620f4b413ecccf1f5fa8e6d6"
+      },
+      {
+        "name": "라대리의 샐러드 레시피",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 2,
+        "id": "620f4b14e0b4c00433fedf68"
+      },
+      {
+        "name": "라대리의 신용산 라이프",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 3,
+        "id": "620f4c663ecccf1f5fa8e6e2"
+      },
+      {
+        "name": "라대리 선톡 해줘",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 4,
+        "id": "62343fc56443043f4ccc8858"
+      }
+    ],
+    "created": 1645062932931,
+    "updated": 1645169753898,
+    "visibility": true,
+    "sequence": 2
+  },
+  {
+    "id": "620f4c738cc6052d8e21a01e",
+    "name": "선톡 전송",
+    "items": [
+      {
+        "name": "선톡 전송",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 1,
+        "id": "620f5053ca92880f0b4e7bf6"
+      },
+      {
+        "name": "선톡 하지마",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 2,
+        "id": "624020030e5a6c3efabf8d61"
+      }
+    ],
+    "created": 1645169779837,
+    "updated": 1645169809345,
+    "visibility": true,
+    "sequence": 3
+  },
+  {
+    "id": "6232ce248bbe3e7607611549",
+    "name": "예외 처리",
+    "items": [
+      {
+        "name": "스몰톡 호출",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 1,
+        "id": "6232d1286443043f4ccc7d05"
+      },
+      {
+        "name": "필터링",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 2,
+        "id": "628325a29ac8ed784416d5ab"
+      },
+      {
+        "name": "연예인",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 3,
+        "id": "628c37c4d17b1924f4fbd0be"
+      },
+      {
+        "name": "와인",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 4,
+        "id": "628c37d7299dbd02ee7a7865"
+      },
+      {
+        "name": "스포츠",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 5,
+        "id": "628ee65b43b3015cb0df9e4d"
+      },
+      {
+        "name": "긍정 반응 발화",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 6,
+        "id": "62948b78ab89e678ee868faa"
+      },
+      {
+        "name": "부정 반응 발화",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 7,
+        "id": "62981bd0f591aa190554a556"
+      },
+      {
+        "name": "날씨",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 8,
+        "id": "62aff19d56d6aa4f9350e8d8"
+      },
+      {
+        "name": "선톡 임시 블록",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 9,
+        "id": "62bbedd09f12214ac8865318"
+      },
+      {
+        "name": "매장정보",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 10,
+        "id": "62d66674903c8b5a800521a1"
+      },
+      {
+        "name": "위로",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 11,
+        "id": "62d666ebe262a941bbdd9059"
+      },
+      {
+        "name": "취미",
+        "meta": {
+          "role": "normal",
+          "category": null
+        },
+        "sequence": 12,
+        "id": "62d6671328d63278024cf78f"
+      }
+    ],
+    "created": 1647496740950,
+    "updated": 1647498953294,
+    "visibility": true,
+    "sequence": 4
+  }
+]
